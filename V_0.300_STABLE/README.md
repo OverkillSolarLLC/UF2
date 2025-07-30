@@ -3,6 +3,7 @@
 # Pathfinder BMS firmware change log July 28 2025
 
 ## V_0.300_STABLE
+### Requires mobile app version 2.0.4 or later
  - New feature: selectable SOC tracking algorithms.
  	- Simplified learning cycle
  - Enabled the Serial API on the UART port in addition to the USB port. (Also published the API documentation, see github.com/OverkillSolarLLC/documentation)
