@@ -1,5 +1,8 @@
-# Pathfinder BMS firmware change log August 19 2025
+# Pathfinder BMS firmware change log Sept. 23 2025
 
+## V_0.307_BETA
+ - Adds a manufacturing test to calibrate null current and test UI buttons.
+ - No visible changes after manufacturing. This version was not published via OTA.
 ## V_0.305_STABLE
  - Bug fix: add function to clear alarm event counts.
  - Bug fix: MQTT power mapped to wrong data.
